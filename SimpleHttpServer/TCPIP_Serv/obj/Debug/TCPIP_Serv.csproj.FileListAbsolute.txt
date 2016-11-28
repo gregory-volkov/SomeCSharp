@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\bin\Debug\TCPIP_Serv.exe.config
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\bin\Debug\TCPIP_Serv.exe
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\bin\Debug\TCPIP_Serv.pdb
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\obj\Debug\TCPIP_Serv.exe
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\obj\Debug\TCPIP_Serv.pdb
+C:\Users\user\Documents\Projects\TCPIP_Serv\TCPIP_Serv\obj\Debug\TCPIP_Serv.csprojResolveAssemblyReference.cache
