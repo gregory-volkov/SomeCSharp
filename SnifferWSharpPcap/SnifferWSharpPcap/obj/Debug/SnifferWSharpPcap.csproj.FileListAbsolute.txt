@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\SnifferWSharpPcap.exe.config
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\SnifferWSharpPcap.exe
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\SnifferWSharpPcap.pdb
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\PacketDotNet.dll
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\SharpPcap.dll
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\PacketDotNet.xml
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\bin\Debug\SharpPcap.xml
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\obj\Debug\SnifferWSharpPcap.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\obj\Debug\SnifferWSharpPcap.exe
+C:\Users\user\Documents\Projects\SnifferWSharpPcap\SnifferWSharpPcap\obj\Debug\SnifferWSharpPcap.pdb
